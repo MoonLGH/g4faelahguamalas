@@ -1,0 +1,12 @@
+{
+  "name": "g4faelahguamalas",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/MoonLGH/g4faelahguamalas.git",
+  "author": "MoonLGH <MoonLMC1212@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "g4f": "^1.4.6"
+  }
+}
